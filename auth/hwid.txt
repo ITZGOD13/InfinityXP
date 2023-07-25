@@ -12,3 +12,12 @@ Neon
 
 Diw1559
 B21F0100DBA90300BFEBFBFF000906EDDefault string
+
+STK
+-
+
+ferreira
+-
+
+shame
+-
